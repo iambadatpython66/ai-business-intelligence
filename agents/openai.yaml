@@ -1,0 +1,4 @@
+interface:
+  display_name: "AI Business Intelligence"
+  short_description: "Research and debate three evidence-backed business ideas"
+  default_prompt: "Use $ai-business-intelligence to research current market gaps and deliver exactly three qualified business ideas."

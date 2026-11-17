@@ -1,0 +1,16 @@
+# Generated research and test artifacts
+runs/
+tests/artifacts/
+*.tmp
+*.zip
+
+# Local credentials and environment settings
+.env
+.env.*
+!.env.example
+
+# Editor and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
